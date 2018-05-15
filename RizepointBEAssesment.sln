@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RizepointBEAssesment", "RizepointBEAssesment\RizepointBEAssesment.csproj", "{F64040B7-ECD4-44DE-AE8F-495715F70DE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RizepointBEAssesment.Tests", "RizepointTest.Tests\RizepointBEAssesment.Tests.csproj", "{3FC7847C-2F31-4783-B67A-D1E628B4D429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F64040B7-ECD4-44DE-AE8F-495715F70DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64040B7-ECD4-44DE-AE8F-495715F70DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64040B7-ECD4-44DE-AE8F-495715F70DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64040B7-ECD4-44DE-AE8F-495715F70DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FC7847C-2F31-4783-B67A-D1E628B4D429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC7847C-2F31-4783-B67A-D1E628B4D429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC7847C-2F31-4783-B67A-D1E628B4D429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC7847C-2F31-4783-B67A-D1E628B4D429}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C758D98-DDD1-46B9-85E6-64120A72771C}
+	EndGlobalSection
+EndGlobal
